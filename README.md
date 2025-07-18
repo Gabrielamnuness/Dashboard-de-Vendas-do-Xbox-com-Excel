@@ -14,7 +14,7 @@ visualizar as informações, indicadores e métricas de desempenho de forma mais
 * C = Cálculos: Meio de campo que processa dados matématicos para gerar informações.  
 * D = Dashboard: Painel Visual.
 
-## Segue abaixo foto do Layout do Dashboard
+## Segue abaixo imagem do Layout do Dashboard
 
 <p align='center'>
 
