@@ -1,9 +1,11 @@
 # Dashboard-de-Vendas-do-Xbox-com-Excel
 ## Ferramenta visual, criativa e interativa
 
+Desenvolvi esse projeto através do bootcamp da Dio em parceria com o Santander.
+
 **A partir de uma base de dados podemos gerar informações, ou seja, responder a perguntas de negócio para visualizar os dados, fornecendo recursos fundamentais na tomada de decisões.**   
 
-**O case se trata da criação de um Dashboard de Vendas do Xbox com Excel, usando o método ABCD, o qual é uma ferramenta que permite 
+**O case que desenvolvi com auxílio do professor Felipe na plataforma da DIO, se trata da criação de um Dashboard de Vendas do Xbox com Excel, usando o método ABCD. Logo, a ferramenta permite 
 visualizar as informações, indicadores e métricas de desempenho de forma mais organizada e centralizada.**  
 
 ### Método ABCD:  
